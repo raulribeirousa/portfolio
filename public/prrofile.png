@@ -1,0 +1,8 @@
+<Image
+  src="/prrofile.png"
+  alt="Raul Ribeiro"
+  width={96}
+  height={96}
+  priority
+  className="mb-8 rounded-full border border-zinc-200 object-cover shadow-lg dark:border-zinc-700"
+/>
