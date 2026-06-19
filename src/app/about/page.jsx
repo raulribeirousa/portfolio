@@ -37,7 +37,7 @@ export default function About() {
 
         <aside className="space-y-6">
           <Image
-            src="/profile.png"
+            src="/portfolio/profile.png"
             alt="Raul Ribeiro"
             width={320}
             height={320}
