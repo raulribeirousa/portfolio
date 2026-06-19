@@ -30,7 +30,7 @@ export default function Home() {
 
         <section className="mx-auto max-w-6xl px-6 py-14">
           <Image
-            src="/profile.png"
+            src="/portfolio/profile.png"
             alt="Raul Ribeiro"
             width={96}
             height={96}
